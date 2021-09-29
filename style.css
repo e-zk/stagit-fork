@@ -28,6 +28,10 @@ a.line {
 	text-decoration: none;
 }
 
+a.line {
+	user-select: none;
+}
+
 #blob a {
 	color: #555;
 }
